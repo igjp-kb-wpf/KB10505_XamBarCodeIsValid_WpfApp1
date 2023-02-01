@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KB10505_XamBarCodeIsValid_WpfApp1", "KB10505_XamBarCodeIsValid_WpfApp1\KB10505_XamBarCodeIsValid_WpfApp1.csproj", "{4FCE744F-AB47-4902-AE4F-50140302A083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FCE744F-AB47-4902-AE4F-50140302A083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCE744F-AB47-4902-AE4F-50140302A083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCE744F-AB47-4902-AE4F-50140302A083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCE744F-AB47-4902-AE4F-50140302A083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {636E8A13-2AAF-4AB4-BC1F-A5BB9B38707D}
+	EndGlobalSection
+EndGlobal
